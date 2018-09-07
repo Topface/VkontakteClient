@@ -1,5 +1,5 @@
 {
-    "name": "alxmsl/vkontakteclient",
+    "name": "Topface/vkontakteclient",
     "description": "Simple client for Vkontakte API",
     "keywords": ["vkontakte", "vk", "vkontakte-api", "vk-api"],
     "license": "WTFPL",
@@ -18,5 +18,11 @@
     },
     "require":{
         "alxmsl/network": ">=1.1.0"
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:Topface/Network.git"
+        }
+    ]
 }
