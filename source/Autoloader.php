@@ -10,7 +10,7 @@
 namespace alxmsl\Vkontakte;
 
 // append autoloader
-spl_autoload_register(array('\Vkontakte\Client\Autoloader', 'autoload'));
+spl_autoload_register(array('alxmsl\Vkontakte\Autoloader', 'autoload'));
 
 /**
  * Vkontakte API Client classes autoloader
