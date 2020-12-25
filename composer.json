@@ -1,5 +1,5 @@
 {
-    "name": "Topface/vkontakteclient",
+    "name": "topface/vkontakteclient",
     "description": "Simple client for Vkontakte API",
     "keywords": ["vkontakte", "vk", "vkontakte-api", "vk-api"],
     "license": "WTFPL",
